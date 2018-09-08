@@ -6,7 +6,6 @@
     // :: 1.0 Owl Carousel Active Code
     // :: 2.0 Slick Active Code
     // :: 4.0 ScrollUp Active Code
-    // :: 6.0 onePageNav Active Code
     // :: 7.0 Magnific-popup Video Active Code
     // :: 8.0 Sticky Active Code
     // :: 9.0 Preloader Active code
@@ -34,7 +33,7 @@
             asNavFor: '.slider-nav'
         });
         $('.slider-nav').slick({
-            slidesToShow: 3,
+            slidesToShow: 1,
             slidesToScroll: 1,
             speed: 500,
             asNavFor: '.slider-for',
@@ -55,15 +54,6 @@
         $.scrollUp({
             scrollSpeed: 1500,
             scrollText: '<i class="fa fa-angle-up"></i>'
-        });
-    }
-
-    // :: 6.0 onePageNav Active Code
-    if ($.fn.onePageNav) {
-        $('#nav').onePageNav({
-            currentClass: 'active',
-            scrollSpeed: 2000,
-            easing: 'easeOutQuad'
         });
     }
 
