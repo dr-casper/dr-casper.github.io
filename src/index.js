@@ -94,4 +94,7 @@
         }
     });
 
+    $('#ca-navbar a').on('click', function(){
+        $('#ca-navbar').collapse('hide');
+    });
 })(jQuery);
