@@ -33,9 +33,6 @@
     .single-special {
         padding: 30px 10px;
     }
-    .special_description_area.mt-150 {
-        margin-top: 50px;
-    }
     .special_description_content > h2 {
         font-size: 30px;
     }
@@ -49,7 +46,7 @@
         margin-bottom: 30px;
     }
     .section-heading {
-        margin-bottom: 50px;
+        margin-bottom: 24px;
     }
     .clients-feedback-area .slick-slide.slick-current img {
         width: 90px !important;
@@ -62,7 +59,7 @@
         padding: 0;
     }
     .menu_area .navbar-brand {
-        font-size: 48px;
+        font-size: 32px;
     }
     .header_area.sticky {
         /* height: 50px; */
@@ -86,6 +83,9 @@
     }
     .section-heading > h2 {
         font-size: 32px;
+    }
+    .section-heading {
+        margin-bottom: 24px;
     }
     .single-special {
         margin-bottom: 30px;
@@ -124,4 +124,23 @@
     .footer-contact-icon > a {
         font-size: 20px;
     }
+    .footer-contact-icon > a > i {
+        color: #9b69e4;
+        font-size: 24px;
+        background: #ffffff;
+        height: 32px;
+        width: 32px;
+        line-height: 32px;
+        font-weight: 500;
+        border-radius: 10px 10px 10px 0px;
+        margin: 4px;
+    }
+    .footer-text > h2 {
+        font-size: 48px;
+    }
+
+    .footer-text > h4 {
+        font-size: 24px;
+    }
+
 }

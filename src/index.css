@@ -163,7 +163,7 @@ p {
 }
 
 .section-heading {
-    margin-bottom: 60px;
+    margin-bottom: 48px;
 }
 
 .line-shape-white,
@@ -635,7 +635,7 @@ p {
     line-height: 48px;
     font-weight: 500;
     border-radius: 10px 10px 10px 0px;
-    margin: 10px;
+    margin: 4px;
 }
 
 .footer-contact-icon > a > i:hover {
