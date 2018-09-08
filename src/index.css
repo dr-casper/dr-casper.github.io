@@ -218,8 +218,9 @@ p {
 .menu_area .navbar-brand small {
     font-size: 16px;
     line-height: 16px;
-    display: block;
     margin-top: 4px;
+    text-align: center;
+    display: block;
 }
 
 .menu_area .navbar-brand:hover,
