@@ -1,1 +1,0 @@
-# Dr. Casper static website
