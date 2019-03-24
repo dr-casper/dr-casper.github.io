@@ -698,3 +698,7 @@ p {
 footer .section-heading {
     margin-top: -50px;
 }
+
+img.contact {
+    width: 50%;
+}
