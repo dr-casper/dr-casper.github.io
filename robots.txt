@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dr-casper.tk/sitemap.xml
+Sitemap: https://dr-casper.ru/sitemap.xml
