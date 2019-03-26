@@ -17,11 +17,7 @@
     .menu_area .navbar-brand {
         font-size: 48px;
     }
-    .header_area.sticky {
-        /* height: 50px; */
-    }
-    .header_area .menu_area #nav .nav-link,
-    .header_area.sticky .menu_area #nav .nav-link {
+    .header_area .menu_area #nav .nav-link {
         padding: 7.5px 15px;
     }
     #ca-navbar {
@@ -70,11 +66,7 @@
     .menu_area .navbar-brand {
         font-size: 32px;
     }
-    .header_area.sticky {
-        /* height: 50px; */
-    }
-    .header_area .menu_area #nav .nav-link,
-    .header_area.sticky .menu_area #nav .nav-link {
+    .header_area .menu_area #nav .nav-link {
         padding: 5px 15px;
     }
     #ca-navbar {
