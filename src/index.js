@@ -73,17 +73,6 @@
         $.preventDefault()
     });
 
-    var $window = $(window);
-
-    // :: 8.0 Sticky Active Code
-    $window.on('scroll', function () {
-        if ($window.scrollTop() > 48) {
-            $('.header_area').addClass('sticky slideInDown');
-        } else {
-            $('.header_area').removeClass('sticky slideInDown');
-        }
-    });
-
     $('#ca-navbar a').on('click', function(){
         $('#ca-navbar').collapse('hide');
     });
