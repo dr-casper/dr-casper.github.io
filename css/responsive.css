@@ -55,6 +55,15 @@
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
+    header {
+        height: 76px;
+    }
+
+    main {
+        margin-top: 76px;
+        height: calc(100vh - 76px);
+        overflow-y: scroll;
+    }
     .header_area {
         padding: 0;
     }
