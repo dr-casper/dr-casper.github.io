@@ -41,6 +41,7 @@
             focusOnSelect: true,
             slide: 'div',
             autoplay: true,
+            autoplaySpeed: 10000,
             centerMode: true,
             centerPadding: '30px',
             mobileFirst: true,
@@ -52,7 +53,7 @@
     // :: 4.0 ScrollUp Active Code
     if ($.fn.scrollUp) {
         $.scrollUp({
-            scrollSpeed: 1500,
+            scrollSpeed: 1000,
             scrollText: '<i class="fa fa-angle-up"></i>'
         });
     }
